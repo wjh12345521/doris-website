@@ -60,7 +60,7 @@ The purpose and use case of each channel is as follows:
 
 ## Choose a Channel by Scenario
 
-<!-- Knowledge type: Scenario routing -->
+<!-- Knowledge type: Scenario routing -->。
 
 - **To ask quick questions or join daily discussions**: join [Slack](https://doris.apache.org/slack?utm_source=website&utm_medium=docs&utm_content=community_join_page).
 - **To report bugs or submit code**: visit [GitHub](https://github.com/apache/doris), and refer to [Feedback](feedback) and the [Community Contribution Guide](how-to-contribute/contribute-to-doris.mdx).
